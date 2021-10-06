@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Enrique do Nascimento Ferreira.
 - 👀 I’m interested in Web development.
-- 🌱 I’m currently learning about HTML, CSS and Javascript. Wanting to improve my knowledge about Frontend.
+- 🌱 I’m currently learning C#, wanting to improve my knowledge in Data Structure, Algorithms and Clean Code.
 - 📫 How to reach me Enriqueferreira956@gmail.com
 
