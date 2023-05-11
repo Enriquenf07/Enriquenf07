@@ -1,6 +1,12 @@
-- Hi, I’m Enrique do Nascimento Ferreira.
-- To access my portfolio: https://enriquenf07.github.io/PortfolioSite/html/home.html
-- I’m interested in Web development.
-- I’m currently wanting to improve my knowledge in Front-end technologies
-- How to reach me Enriqueferreira956@gmail.com
-
+<h1 align="center">Enrique Ferreira</h1>
+<h2 align="center">Desenvolvedor de software</h2>
+<p>Conhecimento</p>
+<ul>
+  <li>Python</li>
+  <li>Javascript</li>
+  <li>HTML</li>
+  <li>CSS/Bootstrap</li>
+  <li>Django</li>
+  <li>Banco de dados relacional</li>
+</ul>
+<p>No momento focado em aprender mais sobre Django, ao mesmo tempo em que busco me envolver em projetos.</p>
