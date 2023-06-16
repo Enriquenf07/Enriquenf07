@@ -2,7 +2,7 @@
 <h2 align="center">Desenvolvedor de software</h2>
 <p>Projetos</p>
 <p>E-commerce em django</p>
-<a>https://github.com/Enriquenf07/e-commerce-django-app</a>
+<p>https://github.com/Enriquenf07/e-commerce-django-app</p>
 <p>Conhecimento</p>
 <ul>
   <li>Python</li>
