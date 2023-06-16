@@ -1,8 +1,8 @@
 <h1 align="center">Enrique Ferreira</h1>
 <h2 align="center">Desenvolvedor de software</h2>
 <p>Projetos</p>
-<p>E-commerce em django</p>
-<p>https://github.com/Enriquenf07/e-commerce-django-app</p>
+<p> <a href="https://github.com/Enriquenf07/e-commerce-django-app">E-commerce Django</p>
+</h1>
 <p>Conhecimento</p>
 <ul>
   <li>Python</li>
