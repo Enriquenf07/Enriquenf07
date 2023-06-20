@@ -12,5 +12,5 @@
   <li>Django</li>
   <li>Banco de dados relacional</li>
 </ul>
-<p>No momento focado em aprender mais sobre Django, e banco de dados NoSQL, e com interesse pela área de machine learning e algoritmos</p>
+<p>No momento focado em aprender mais sobre Django, e banco de dados NoSQL, e com interesse pela área de machine learning e algoritmos.</p>
 
