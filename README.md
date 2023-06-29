@@ -13,5 +13,5 @@
   <li>CSS/Bootstrap</li>
   <li>Banco de dados relacional</li>
 </ul>
-<p>No momento focado em aprender mais sobre Django e banco de dados NoSQL. Tenho interesse em futuramente me aprofundar na área de machine learning e algoritmos.</p>
+<p>No momento focado em aprender mais sobre Arquitetura de software e banco de dados NoSQL. Tenho interesse em futuramente me aprofundar na área de machine learning e algoritmos.</p>
 
