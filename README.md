@@ -10,7 +10,7 @@
   <li>Python</li>
   <li>Javascript</li>
   <li>HTML</li>
-  <li>CSS/Bootstrap</li>
+  <li>CSS</li>
   <li>Banco de dados relacional</li>
 </ul>
 <p>No momento focado em aprender mais sobre arquitetura de software e banco de dados NoSQL. Tenho interesse em futuramente me aprofundar na área de machine learning e algoritmos.</p>
