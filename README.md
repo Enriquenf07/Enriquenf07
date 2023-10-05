@@ -13,7 +13,6 @@
 <ul>
   <li>Python</li>
   <li>Javascript</li>
-  <li>Go</li>
   <li>React</li>
   <li>API's Design</li>
   <li>HTML</li>
@@ -21,5 +20,4 @@
   <li>SQL</li>
   <li>MongoDB</li>
 </ul>
-<p>Learning functional programming languages.</p>
 
