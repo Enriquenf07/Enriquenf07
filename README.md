@@ -11,6 +11,7 @@
 </h1>
 <p>Skills</p>
 <ul>
+  <li>Java</li>
   <li>Python</li>
   <li>Javascript</li>
   <li>React</li>
