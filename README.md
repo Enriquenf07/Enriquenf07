@@ -1,24 +1,13 @@
-<h1 align="center">Enrique Ferreira</h1>
-<h2 align="center">Software Developer</h2>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=be9b88&height=120&section=header"/>
 
-[Portfolio](https://enriquenf07.github.io/Portfolio/)
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Enriquenf07&show_icons=true&count_private=true&hide_border=true&title_color=be9b88&icon_color=be9b88&text_color=c9d1d9&bg_color=0d1117" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enriquenf07&layout=compact&hide_border=true&title_color=be9b88&text_color=be9b88&bg_color=0d1117" />
 
-[Full stack projects](https://github.com/Enriquenf07/Full-Stack-Projects)
 
-[Back end projects](https://github.com/Enriquenf07/Full-Stack-Projects)
+</div>
 
-[Front end projects](https://github.com/Enriquenf07/Full-Stack-Projects)
-</h1>
-<p>Skills</p>
-<ul>
-  <li>Java</li>
-  <li>Python</li>
-  <li>Javascript</li>
-  <li>React</li>
-  <li>API's Design</li>
-  <li>HTML</li>
-  <li>CSS/Tailwind</li>
-  <li>SQL</li>
-  <li>MongoDB</li>
-</ul>
 
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Enriquenf07&bg_color=0d1117&color=be9b88&line=be9b88&point=be9b88&area=true&hide_border=true)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ab8977&height=120&section=footer"/>
